@@ -19,7 +19,7 @@
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=ts,js,py,php,java,c,bash,powershell&perline=15" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,php,java,c,cs,bash,powershell&perline=15" />
 
 <br/>
 
@@ -31,7 +31,7 @@
 
 **Backend**
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,bun,express,discordjs&perline=15" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,bun,express,discordjs&perline=15" />
 
 <br/>
 
