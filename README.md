@@ -30,7 +30,7 @@ Subscription SaaS for personal trainers: build a training plan, publish it, and 
 
 Draft and published versions are kept apart, so an edit never reaches an athlete mid-week. White-label branding is baked into every export rather than bolted on as a setting.
 
-`Next.js` · `React Server Components` · `TypeScript` · `Tailwind CSS` · `PostgreSQL` · `Vercel`
+`Next.js` · `React Server Components` · `TypeScript` · `Tailwind CSS` · `Supabase (Postgres)` · `Vercel`
 
 ### [hono-snowflake-ingestor](https://github.com/mockqv/hono-snowflake-ingestor) — open source
 
