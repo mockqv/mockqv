@@ -1,10 +1,12 @@
 <div align="center">
 
-# Richard Silva
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Richard Silva — full-stack developer in Brazil, UTC−3. I take products from an empty database to paying users." src="assets/banner-light.svg" width="100%">
+</picture>
 
-**I take products from an empty database to paying users.**
-
-Full-stack developer in Brazil · UTC−3 · Portuguese & English
+<br><br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-C2410C?style=for-the-badge)](https://mockqv.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-27272A?style=for-the-badge)](https://www.linkedin.com/in/richardvfsilva/)
@@ -44,6 +46,14 @@ A CLI that makes a well-formed commit the path of least resistance. Conventional
 
 ## Stack
 
-**Daily** — C# · .NET · ASP.NET · SQL · TypeScript · React · Git
+**Daily**
+
+![C#](https://img.shields.io/badge/C%23-18181B?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-18181B?style=flat-square)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-18181B?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-18181B?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square)
+![React](https://img.shields.io/badge/React-18181B?style=flat-square)
+![Git](https://img.shields.io/badge/Git-18181B?style=flat-square)
 
 **Shipped with** — Next.js · Node.js · Python · Bun · Hono · Tailwind CSS · PostgreSQL · SQL Server · MongoDB · Supabase · Firebase · Docker · Linux

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Richard Silva — full-stack developer. I take products from an empty database to paying users.">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0B0B0C" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#0B0B0C" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#0B0B0C" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="#0B0B0C"/>
+
+  <g stroke="#27272A" stroke-width="1" opacity="0.9">
+    <path d="M720 0v280M760 0v280M800 0v280M840 0v280M880 0v280M920 0v280M960 0v280M1000 0v280M1040 0v280M1080 0v280M1120 0v280M1160 0v280"/>
+    <path d="M720 40h480M720 80h480M720 120h480M720 160h480M720 200h480M720 240h480"/>
+  </g>
+  <rect x="700" y="0" width="500" height="280" fill="url(#fade)"/>
+
+  <rect x="72" y="74" width="44" height="3" fill="#FB923C"/>
+
+  <text x="72" y="112" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="3.4" fill="#8F8F99">FULL-STACK DEVELOPER · BRAZIL · UTC−3</text>
+
+  <text x="70" y="186" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="74" font-weight="700" letter-spacing="-2.6" fill="#FAFAF9">Richard Silva</text>
+
+  <text x="72" y="230" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="24" font-weight="400" letter-spacing="-0.3" fill="#A1A1AA">I take products from an empty database to paying users.</text>
+</svg>
