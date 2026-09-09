@@ -1,125 +1,49 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:a855f7&height=140&section=header&text=mockqv&fontSize=50&fontColor=ffffff&fontAlignY=60&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=16&descAlignY=82&descColor=c084fc)
+# Richard Silva
 
-<br>
+**I take products from an empty database to paying users.**
 
-<br>
+Full-stack developer in Brazil · UTC−3 · Portuguese & English
 
-<img src="https://komarev.com/ghpvc/?username=mockqv&label=Profile+Views&color=a855f7&style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-### `⚡ Tech Stack`
-
-</div>
-
-<br>
-
-<div align="center">
-
-**`LANGUAGES`**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d14?style=for-the-badge&logo=typescript&logoColor=a855f7)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d14?style=for-the-badge&logo=javascript&logoColor=a855f7)
-![Python](https://img.shields.io/badge/Python-0d0d14?style=for-the-badge&logo=python&logoColor=a855f7)
-![C%23](https://img.shields.io/badge/C%23-0d0d14?style=for-the-badge&logo=csharp&logoColor=a855f7)
-![Java](https://img.shields.io/badge/Java-0d0d14?style=for-the-badge&logo=openjdk&logoColor=a855f7)
-![PHP](https://img.shields.io/badge/PHP-0d0d14?style=for-the-badge&logo=php&logoColor=a855f7)
-![Bash](https://img.shields.io/badge/Bash-0d0d14?style=for-the-badge&logo=gnubash&logoColor=a855f7)
-
-<br>
-
-**`FRONTEND`**
-
-![React](https://img.shields.io/badge/React-0d0d14?style=for-the-badge&logo=react&logoColor=a855f7)
-![Next.js](https://img.shields.io/badge/Next.js-0d0d14?style=for-the-badge&logo=nextdotjs&logoColor=a855f7)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d0d14?style=for-the-badge&logo=tailwindcss&logoColor=a855f7)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d14?style=for-the-badge&logo=html5&logoColor=a855f7)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d14?style=for-the-badge&logo=css3&logoColor=a855f7)
-![Figma](https://img.shields.io/badge/Figma-0d0d14?style=for-the-badge&logo=figma&logoColor=a855f7)
-
-<br>
-
-**`BACKEND`**
-
-![.NET](https://img.shields.io/badge/.NET-0d0d14?style=for-the-badge&logo=dotnet&logoColor=a855f7)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d14?style=for-the-badge&logo=nodedotjs&logoColor=a855f7)
-![Express](https://img.shields.io/badge/Express-0d0d14?style=for-the-badge&logo=express&logoColor=a855f7)
-![Bun](https://img.shields.io/badge/Bun-0d0d14?style=for-the-badge&logo=bun&logoColor=a855f7)
-
-<br>
-
-**`DATABASES & CLOUD`**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d14?style=for-the-badge&logo=postgresql&logoColor=a855f7)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-0d0d14?style=for-the-badge&logo=microsoftsqlserver&logoColor=a855f7)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d14?style=for-the-badge&logo=mongodb&logoColor=a855f7)
-![Supabase](https://img.shields.io/badge/Supabase-0d0d14?style=for-the-badge&logo=supabase&logoColor=a855f7)
-![Firebase](https://img.shields.io/badge/Firebase-0d0d14?style=for-the-badge&logo=firebase&logoColor=a855f7)
-
-<br>
-
-**`DEVOPS & TOOLS`**
-
-![Docker](https://img.shields.io/badge/Docker-0d0d14?style=for-the-badge&logo=docker&logoColor=a855f7)
-![Git](https://img.shields.io/badge/Git-0d0d14?style=for-the-badge&logo=git&logoColor=a855f7)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d14?style=for-the-badge&logo=github&logoColor=a855f7)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0d0d14?style=for-the-badge&logo=bitbucket&logoColor=a855f7)
-![Linux](https://img.shields.io/badge/Linux-0d0d14?style=for-the-badge&logo=linux&logoColor=a855f7)
-![Jira](https://img.shields.io/badge/Jira-0d0d14?style=for-the-badge&logo=jira&logoColor=a855f7)
-![Slack](https://img.shields.io/badge/Slack-0d0d14?style=for-the-badge&logo=slack&logoColor=a855f7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-C2410C?style=for-the-badge)](https://mockqv.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-27272A?style=for-the-badge)](https://www.linkedin.com/in/richardvfsilva/)
+[![Email](https://img.shields.io/badge/Email-27272A?style=for-the-badge)](mailto:richardviniciusfs07@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
+I build and operate software end to end — the data model, the interface on top of it, and the deploy that puts it in front of people.
 
-### `📊 Stats`
+Right now I work across the platforms at **Evolucional** in C# and .NET, and I design, build and run **[Progrida](https://progrida.app)** — a subscription SaaS that personal trainers use to prescribe training and export branded PDFs to their athletes.
 
-<br>
+**Open to freelance projects and remote contract work.**
 
-<img width="49%" src="https://streak-stats.demolab.com?user=mockqv&theme=transparent&hide_border=false&background=0d0d14&fire=a855f7&ring=a855f7&currStreakLabel=a855f7&sideLabels=c084fc&sideNums=c084fc&currStreakNum=c084fc&dates=555570&border=1a1a2e" />
+## Selected work
 
-<br><br>
+### [Progrida](https://progrida.app) — live product
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mockqv&bg_color=0d0d14&color=a855f7&line=7c3aed&point=c084fc&area=true&area_color=a855f7&hide_border=true&radius=8&custom_title=Contribui%C3%A7%C3%B5es)](https://github.com/mockqv)
+Subscription SaaS for personal trainers: build a training plan, publish it, and export a PDF carrying the trainer's own logo, colour and CREF licence number. It replaces the spreadsheet-and-screenshot workflow the profession still runs on.
 
-</div>
+Draft and published versions are kept apart, so an edit never reaches an athlete mid-week. White-label branding is baked into every export rather than bolted on as a setting.
 
----
+`Next.js` · `React Server Components` · `TypeScript` · `Tailwind CSS` · `PostgreSQL` · `Vercel`
 
-<div align="center">
+### [hono-snowflake-ingestor](https://github.com/mockqv/hono-snowflake-ingestor) — open source
 
-### `🐍 Contribution Snake`
+High-throughput ingestion API that validates JSON events with Zod and streams them into Snowflake's `VARIANT` columns — schema-on-read, so a new event shape never blocks on a migration. Returns `202 Accepted` immediately and persists in the background. Load-tested at 200+ req/s with 100/100 successful writes.
 
-<br>
+`Bun` · `Hono` · `TypeScript` · `Zod` · `Snowflake` · `Docker`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mockqv/mockqv/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mockqv/mockqv/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mockqv/mockqv/output/github-contribution-grid-snake.svg" />
-</picture>
+### [msc](https://github.com/mockqv/msc) — open source, MIT
 
-</div>
+A CLI that makes a well-formed commit the path of least resistance. Conventional Commits, git hooks, one command.
 
----
+`Python` · `Shell`
 
-<div align="center">
+## Stack
 
-<br>
+**Daily** — C# · .NET · ASP.NET · SQL · TypeScript · React · Git
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-a855f7?style=for-the-badge&logoColor=white)](https://mockqv.github.io/mock-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d14?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://www.linkedin.com/in/richardvfsilva/)
-[![Email](https://img.shields.io/badge/Email-0d0d14?style=for-the-badge&logo=gmail&logoColor=a855f7)](mailto:richardviniciusfs07@gmail.com)
-
-<br>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:a855f7&height=80&section=footer)
-
-</div>
+**Shipped with** — Next.js · Node.js · Python · Bun · Hono · Tailwind CSS · PostgreSQL · SQL Server · MongoDB · Supabase · Firebase · Docker · Linux
